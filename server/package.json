@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "multer":   "nodemon ./server_multer.js",
+    "formData": "nodemon ./server_formData.js"
+  },
+  "dependencies": {
+    "koa": "^2.13.3",
+    "koa-body": "^4.2.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^10.1.1",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "nodemon": "^2.0.13"
+  }
+}
