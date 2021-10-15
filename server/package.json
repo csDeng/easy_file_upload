@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "multer":   "nodemon ./server_multer.js",
+    "multer": "nodemon ./server_multer.js",
     "formData": "nodemon ./server_formData.js"
   },
   "dependencies": {
